@@ -1,0 +1,18 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "Just a simple web server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Sergio Rivera",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "dotenv": "15.0.0",
+    "express": "4.17.2",
+    "hbs": "4.2.0"
+  }
+}
